@@ -1,6 +1,0 @@
-{"maid":{"name": "cat boy uwu maid", "url": "https://i.ibb.co/4S4Y9cb/584701d246e30f14-1.png"},
-"jamesj":{"name": "jamesj", "url": "https://i.ibb.co/VCZDQxH/a5ff7ac2861f6767.png"},
-"squid":{"name": "squid gamist", "url": "https://i.ibb.co/7Rf3nmn/98066a5520e6cbe2.png"},
-"christmas":{"name": "christmas normal", "url": "https://i.ibb.co/xYzkDSf/2f4004e619a99526-1.png"},
-"tony":{"name": "normal tony", "url": "https://i.ibb.co/sbRwxd0/2ab1dd68eba7361a.png"},
-"tonymask":{"name": "tony skin with mask", "url": "https://i.ibb.co/YcC9gVM/4c8103a59e1e016e-1.png"}}
